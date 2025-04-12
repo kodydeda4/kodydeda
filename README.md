@@ -10,6 +10,6 @@ Outside of work, I'm passionate about mentorship and developer community. I regu
 
 ## Get in Touch
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/kodydeda4/), or check out my portfolio at [kodydeda.vercel.app](https://kodydeda.vercel.app).
+You can find me on [LinkedIn](https://www.linkedin.com/in/kodydeda4/), or [check out my portfolio](https://kodydeda.vercel.app).
 
 Thanks for stopping by!
