@@ -1,39 +1,17 @@
-# 👋 Hi, I'm Kody Deda
+# Hi there! 👋
 
-iOS developer, mechanical keyboard nerd, and long-time Apple software enthusiast.
+**Kody here.** I'm an iOS developer, keyboard collector, and long-time Apple software enthusiast. I'm a big fan of Point-Free libraries and tools, and I love building modular, maintainable apps with Swift.
 
-## 🧠 My Story
+I've been into tech for as long as I can remember. Back in the day, I was the kid jailbreaking iPod Touches and exploring Cydia just to see what was possible. That early curiosity sparked a lifelong love of software and programming.
 
-I’ve been into tech for as long as I can remember — back in the day, I was that kid jailbreaking iPod Touches and hunting down Cydia tweaks just to see what was possible. That curiosity quickly turned into a love for Apple software and programming in general.
+Since college, I’ve been building iOS apps and having a blast doing it. I enjoy crafting thoughtful codebases, learning new frameworks, and shipping features that are both useful and delightful to use.
 
-Since college, I’ve been building iOS apps and having a blast doing it. I love crafting thoughtful, modular codebases, learning new frameworks, and shipping real features that people can actually use.
+Outside of work, I'm passionate about mentorship and developer community. I regularly attend meetups, try to connect with other developers, and give workshops when I can. I believe in sharing what I know, learning from others, and always staying curious.
 
----
+## Hit me up
 
-## 🛠 What I’m Into
+**Open to connecting** — feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kodydeda4/).
 
-- Writing clean, scalable iOS apps in **Swift**, **SwiftUI**, **TCA**, and **Swift Concurrency**
-- Collecting mechanical keyboards — favorites include the **IBM Model M**, **Kinesis Advantage 360**, and **Apple Keyboard Extended II**
-- Mentorship and knowledge-sharing — helping others grow helps me grow
-- Building cool software with fun, kind, curious people
-- Connecting with developers at meetups, workshops, and over coffee
+Thanks for stopping by!
 
----
 
-## 🧩 Projects I’ve Built
-
-- [**Peg Puzzle Classic**](https://apps.apple.com/us/app/peg-puzzle-classic/id6469359729) — a smooth, elegant SwiftUI take on the classic triangular peg puzzle
-- [**AccuTune Guitar Tuner**](https://apps.apple.com/us/app/accutune-guitar-tuner/id6472688914) — a lightweight tuner app for guitarists that helps you tune by ear
-- [**More on my website →**](https://kodydeda.vercel.app)
-
----
-
-## 🤝 Let's Connect
-
-- 🖥 [kodydeda.vercel.app](https://kodydeda.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/company/wilmingtonio)
-- ✉️ kodydeda4@gmail.com
-
----
-
-Thanks for stopping by 👋
