@@ -8,10 +8,8 @@ Since college, I’ve been building iOS apps and having a blast doing it. I enjo
 
 Outside of work, I'm passionate about mentorship and developer community. I regularly attend meetups, try to connect with other developers, and give workshops when I can. I believe in sharing what I know, learning from others, and always staying curious.
 
-## Hit me up
+## Get in Touch
 
-**Open to connecting** — feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kodydeda4/).
+You can find me on [LinkedIn](https://www.linkedin.com/in/kodydeda4/), or check out my portfolio at [kodydeda.vercel.app](https://kodydeda.vercel.app).
 
 Thanks for stopping by!
-
-
