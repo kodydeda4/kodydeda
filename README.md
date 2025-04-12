@@ -2,8 +2,6 @@
 
 iOS developer, mechanical keyboard nerd, and long-time Apple software enthusiast.
 
----
-
 ## 🧠 My Story
 
 I’ve been into tech for as long as I can remember — back in the day, I was that kid jailbreaking iPod Touches and hunting down Cydia tweaks just to see what was possible. That curiosity quickly turned into a love for Apple software and programming in general.
@@ -15,7 +13,7 @@ Since college, I’ve been building iOS apps and having a blast doing it. I love
 ## 🛠 What I’m Into
 
 - 🍎 Writing clean, scalable iOS apps in **Swift**, **SwiftUI**, **TCA**, and **Swift Concurrency**
-- 🎹 Collecting mechanical keyboards — favorites include the **IBM Model M**, **Kinesis Advantage 360**, and **Apple Extended Keyboard SKE@ edition**
+- 🎹 Collecting mechanical keyboards — favorites include the **IBM Model M**, **Kinesis Advantage 360**, and **Apple Keyboard Extended II**
 - 🧠 Mentorship and knowledge-sharing — helping others grow helps me grow
 - 🎉 Building cool software with fun, kind, curious people
 - 👥 Connecting with developers at meetups, workshops, and over coffee
